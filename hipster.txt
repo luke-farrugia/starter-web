@@ -1,2 +1,10 @@
 This is some dummy test to be included in the git training 
 to be able to pass the course. 
+
+
+hello this is luke haha testing
+hello
+
+
+
+adding more text 
